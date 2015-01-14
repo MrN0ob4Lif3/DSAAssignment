@@ -1,3 +1,10 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+mxm_779k_matches.txt
+mxm_dataset_train.txt
+
 # Compiled Object files
 *.slo
 *.lo
