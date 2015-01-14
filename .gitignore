@@ -2,6 +2,8 @@
 *.suo
 *.user
 *.sln.docstates
+*.sdf
+*.opensdf
 mxm_779k_matches.txt
 mxm_dataset_train.txt
 
